@@ -1,7 +1,7 @@
 
 """
 Chess Dictionary Validator
-In this chapter, we used the dictionary value {'1h': 'bking', '6c': 'wqueen', '2g': 'bbishop', '5h': 'bqueen', '3e': 'wking'} to represent a chess board.
+Using the dictionary value {'1h': 'bking', '6c': 'wqueen', '2g': 'bbishop', '5h': 'bqueen', '3e': 'wking'} to represent a chess board.
 
 Write a function named isValidChessBoard() that takes a dictionary argument and returns True or False depending on if the board is valid.
 
