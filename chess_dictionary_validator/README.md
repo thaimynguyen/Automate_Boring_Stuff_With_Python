@@ -1,6 +1,6 @@
-## Automate the Boring Stuff with Python by AL Sweigart
-## Chapter 5: DICTIONARIES AND STRUCTURING DATA
-### Ebook link: https://automatetheboringstuff.com/2e/chapter5/#calibre_link-204
+### Automate the Boring Stuff with Python by AL Sweigart
+### Chapter 5: DICTIONARIES AND STRUCTURING DATA
+#### Ebook link: https://automatetheboringstuff.com/2e/chapter5/#calibre_link-204
 
 Using the dictionary value, for example {'1h': 'bking', '6c': 'wqueen', '2g': 'bbishop', '5h': 'bqueen', '3e': 'wking'} to represent a chess board, write a function named *isValidChessBoard()* that takes a dictionary argument and returns True or False depending on if the board is valid.
 
