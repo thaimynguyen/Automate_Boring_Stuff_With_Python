@@ -12,8 +12,6 @@ My codes for  [automate the boring stuff with python by Al Sweigart](https://aut
 * Chapter 5 – Dictionaries and Structuring Data
     * [Chess Board Validator](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/tree/main/chess_dictionary_validator)
     * [Tic Tac Toe using Pygame](https://github.com/thaimynguyen/Python-learning-projects/tree/main/Tic_Tac_Toe_Pygame)
-* Chapter 6 – Manipulating Strings
-    * []
 * Chapter 7 – Pattern Matching with Regular Expressions
     * [Strong Pasword Detection]()
 * Chapter 8 – Reading and Writing Files
