@@ -3,7 +3,7 @@ My codes for  [automate the boring stuff with python by Al Sweigart](https://aut
 
 
 * Chapter 3 - Functions
-    * [The Collatz Sequence]()
+    * [The Collatz Sequence](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/collatz_sequence.py)
 * Chapter 4 - Lists
     * [Comma Code]()
 * Chapter 5 – Dictionaries and Structuring Data
