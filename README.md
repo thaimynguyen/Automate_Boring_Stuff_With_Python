@@ -18,8 +18,7 @@ My codes for  [automate the boring stuff with python by Al Sweigart](https://aut
     * [Regex Search](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/regrex_search.py)
     * [Generating Random Quiz Files](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/quiz_generator.py)
 * Chapter 9 – Organizing Files
-    * [Selective Copy]()
-    * [Deleting Unneeded Files]()
+    * [Renaming Files with American-Style dates to European-Style dates](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/rename_dates.py)
     * [Filling In The Gaps]()
 * Chapter 10 – Debugging
     * [Debugging Coin Toss]()
