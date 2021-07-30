@@ -1,5 +1,5 @@
 # Automate The Boring Stuff With Python
-My codes for  [automate the boring stuff with python by Al Sweigart](https://automatetheboringstuff.com)
+My codes for  [Automate The Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com)
 
 * Chapter 2 - Flow Control
     * [Rock, Paper, Scissors](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/rock_paper_scissors.py)
