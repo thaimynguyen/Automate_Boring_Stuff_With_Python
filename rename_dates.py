@@ -4,7 +4,7 @@ Here’s what the program does:
 1. It searches all the filenames in the current working directory for American-style dates.
 2. When one is found, it renames the file with the month and day swapped to make it European-style.
 
-ebook-link: https://automatetheboringstuff.com/2e/chapter10/#calibre_link-133
+ebook-link: https://automatetheboringstuff.com/2e/chapter10/#calibre_link-333
 
 
 Assumptions:
