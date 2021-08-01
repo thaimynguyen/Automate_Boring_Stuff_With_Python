@@ -1,6 +1,10 @@
 """
-link: https://automatetheboringstuff.com/2e/chapter2/#calibre_link-129
-textbook page 51
+TOPIC: CONTROL FLOW
+PROJECT: ROCK, PAPER, SCISSORS GAME
+
+e-book link: https://automatetheboringstuff.com/2e/chapter2/#calibre_link-129
+
+
 
 This program creates a simple rock, paper, scissors game. The output will look like this:
 
