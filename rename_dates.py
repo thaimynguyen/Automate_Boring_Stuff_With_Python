@@ -13,7 +13,7 @@ Assumptions:
 
 Questions:
 - How can we differentiate a date like 08-01-2020 to be American style or European style?
-- Date validation? (number of days in a month, leap year)
+- Date validation? 
 
 """
 import os, re
