@@ -20,7 +20,7 @@ You win!
 1 Wins, 1 Losses, 1 Ties
 Enter your move: (r)ock (p)aper (s)cissors or (q)uit
 q
-rr
+
 """
 import sys, random
 
