@@ -5,8 +5,13 @@ PROJECT: ROCK, PAPER, SCISSORS GAME
 e-book link: https://automatetheboringstuff.com/2e/chapter2/#calibre_link-129
 
 
+This program creates a simple rock, paper, scissors game. 
+_ user vs Computer
+_ display aggregate scores after every round
+_ program only stops when player key in 'quit' or invalid input
 
-This program creates a simple rock, paper, scissors game. The output will look like this:
+
+The output will look like this:
 
 ROCK, PAPER, SCISSORS
 0 Wins, 0 Losses, 0 Ties
@@ -28,30 +33,36 @@ q
 """
 import sys, random
 
-# These variables keep track of the number of wins, losses and ties.
+# These variables keep track of the number of user's wins, losses and ties.
 win_count = 0
 loss_count = 0
 tie_count = 0
 
-# first key represents user's choice, second key represents computer's choice
-# final value represents result (1 = user wins, 0 = tie, -1 = user loses)
-score_matrix = {    
+
+
+score_matrix = {
+    """
+    # first keys represent user's choice, second keys represent computer's choice
+    # final values represent result (1 = user wins, 0 = tie, -1 = user loses)
+    """
     'r': {'r': 0, 's': 1, 'p': -1},
     'p': {'p': 0, 'r': 1, 's': -1},
     's': {'s': 0, 'p': 1, 'r': -1}
     }
 
 
-print("ROCK, PAPER, SCISSORS")
+print("ROCK, PAPER, SCISSORS \n")
 
-while True: # the main game loop
+# the main game loop
+while True:
+    
     print("Enter your move: (r)ock (p)aper (s)cissors or (q)uit")
     print(f'{win_count} Wins, {loss_count} Losses, {tie_count} Ties')
-    user_choice = input()
+    
+    # Display user's choice:
+    user_choice = input()    
     if user_choice == 'q':
         sys.exit() # Quit the program
-
-    #Display user's choice:
     if user_choice == 'r':
         print('ROCK versus....')
     elif user_choice == 'p':
