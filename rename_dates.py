@@ -10,10 +10,11 @@ ebook-link: https://automatetheboringstuff.com/2e/chapter10/#calibre_link-333
 Assumptions:
 - American style format: mm-dd-yyyy
   European style format: dd-mm-yyyy
+- Program does not check whether the date is valid
 
 Questions:
 - How can we differentiate a date like 08-01-2020 to be American style or European style?
-- Date validation? (number of days in a month, leap year)
+
 
 """
 import os, re
