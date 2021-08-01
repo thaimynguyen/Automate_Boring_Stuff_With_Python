@@ -15,34 +15,37 @@ so we can find out what percentage of the coin flips contains a streak of six he
 
 import random
 
-#variable declaration:
-n_runs = 10000
-flips_per_run = 100
-target_streak = 6
+def calculate_probability():
+    #CONSTANT:
+    N_RUNS = 10000
+    FLIPS_PER_RUN = 100
+    TARGET_STREAK = 6
 
-#reset no of streaks
-numberOfStreaks = 0
+    #reset no of streaks
+    number_of_streaks = 0
 
-#main loop
-for experimentNumber in range(n_runs):
-    # Code that creates a list of 100 'heads' or 'tails' values.
-    coin_flips = []
-    for i in range(flips_per_run):
-        if random.randint(0,1) == 0:
-            coin_flips.append('H')
-        else:
-            coin_flips.append('T')
-    
-    # Code that checks if there is a streak of 6 heads or tails in a row.
-    streak_count = 0
-    for i in range(1, len(coin_flips)):
-        if coin_flips[i] == coin_flips[i-1]:
-            streak_count += 1
-        else:
-            streak_count = 0
+    #main loop
+    for run in range(N_RUNS):
+        # Code that creates a list of 100 'heads' or 'tails' values.
+        coin_flips = []
+        for flip in range(FLIPS_PER_RUN):
+            if random.randint(0,1) == 0:
+                coin_flips.append('H')
+            else:
+                coin_flips.append('T')
 
-        if streak_count == target_streak:
-            numberOfStreaks +=1
-            break   # once a streak is found, skip to next experiment run
-    
-print('Chance of streak: %s%%' % round((numberOfStreaks / n_runs * 100),2))
+        # Code that checks if there is a streak of 6 heads or tails in a row.
+        streak_count = 0
+        for i in range(1, len(coin_flips)):
+            if coin_flips[i] == coin_flips[i-1]:
+                streak_count += 1
+            else:
+                streak_count = 0
+
+            if streak_count == TARGET_STREAK:
+                number_of_streaks +=1
+                break   # once a streak is found, skip to next experiment run
+        
+    print('Chance of streak: %s%%' % round((number_of_streaks / N_RUNS * 100),2))
+
+calculate_probability()      # the average probabilty of a streak of six heads or tails is about 54%
