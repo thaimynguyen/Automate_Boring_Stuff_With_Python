@@ -14,13 +14,13 @@ My codes for  [Automate The Boring Stuff with Python by Al Sweigart](https://aut
     * [Tic Tac Toe using Pygame](https://github.com/thaimynguyen/Python-learning-projects/tree/main/Tic_Tac_Toe_Pygame)
 * Chapter 7 – Pattern Matching with Regular Expressions
     * [Date Validator](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/date_check.py)
-    * [Strong Pasword Detection]()
+    * [Strong Pasword Detection](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/strong_password_check.py)
 * Chapter 8 – Reading and Writing Files
     * [Regex Search](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/regrex_search.py)
     * [Generating Random Quiz Files](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/quiz_generator.py)
 * Chapter 9 – Organizing Files
     * [Renaming Files with American-Style dates to European-Style dates](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/rename_dates.py)
-    * 
+    * [Filling The Gaps]()
 * Chapter 10 – Debugging
     * 
 * Chapter 11 – Web Scraping
