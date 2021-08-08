@@ -22,8 +22,8 @@ My codes for  [Automate The Boring Stuff with Python by Al Sweigart](https://aut
     * [Renaming Files with American-Style dates to European-Style dates](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/rename_dates.py)
     * [Filling The Gaps](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/filling_the_gaps.py) 
 * Chapter 11 – Web Scraping
-    * 
-    * 
+    * [Google Search]()
+    * []
     * 
     * 
 * Chapter 12 – Working with Excel Spreadsheets
