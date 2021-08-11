@@ -18,6 +18,7 @@ def prompt_folder_path():
         else:
             print('\nInvalid link. Please enter the absolute path of to store the comics: \n')
 
+            
 # Create an HTML soup
 def make_soup(url: str):
     request_page = urllib.request.urlopen(url)
