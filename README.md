@@ -23,7 +23,7 @@ My codes for  [Automate The Boring Stuff with Python by Al Sweigart](https://aut
     * [Filling The Gaps](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/filling_the_gaps.py) 
 * Chapter 11 – Web Scraping
     * [Google Search](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/searchgoogle.py)
-    * [XKCD Comics Download](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/download_comics.py)
+    * [Downloading XKCD Comics using BeautifulSoup](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/download_comics.py)
     * 
     * 
 * Chapter 12 – Working with Excel Spreadsheets
