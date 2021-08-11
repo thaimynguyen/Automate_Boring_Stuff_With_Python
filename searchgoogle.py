@@ -1,5 +1,5 @@
 #! python3
-# searchgoogle.py - Opens top search results from Google 
+# searchgoogle.py - Opens in broswer top search results from Google 
 
 import requests, bs4, webbrowser
 
