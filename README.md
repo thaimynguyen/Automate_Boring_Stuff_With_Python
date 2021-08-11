@@ -25,11 +25,7 @@ My codes for  [Automate The Boring Stuff with Python by Al Sweigart](https://aut
     * [Google Search](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/searchgoogle.py)
     * [Downloading XKCD Comics using BeautifulSoup](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/download_comics.py)
     * 
-    * 
-* Chapter 12 – Working with Excel Spreadsheets
-    * 
-* Chapter 13 – Working with PDF and Word Documents
-    * 
+
 * Chapter 14 – Working with CSV Files and JSON Data
     * 
 * Chapter 15 – Keeping Time, Scheduling Tasks, and Launching Programs
