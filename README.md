@@ -23,11 +23,9 @@ My codes for  [Automate The Boring Stuff with Python by Al Sweigart](https://aut
     * [Filling The Gaps](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/filling_the_gaps.py) 
 * Chapter 11 – Web Scraping
     * [Google Search](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/searchgoogle.py)
-    * [Downloading XKCD Comics using BeautifulSoup](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/download_comics.py)
-    * 
-
+    * [Download XKCD Comics using BeautifulSoup](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/download_comics.py)
 * Chapter 14 – Working with CSV Files and JSON Data
-    * 
+    * [Download Weather Data from Open Weather](https://github.com/thaimynguyen/Automate_Boring_Stuff_With_Python/blob/main/get_Open_Weather.py)
 * Chapter 15 – Keeping Time, Scheduling Tasks, and Launching Programs
     * 
 * Chapter 16 – Sending Email and Text Messages
