@@ -1,4 +1,6 @@
 # Automate The Boring Stuff With Python
+[![Language](https://img.shields.io/badge/language-python-blue.svg?style=flat)](https://www.python.org)
+
 My codes for  [Automate The Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com)
 
 * Chapter 2 - Flow Control
